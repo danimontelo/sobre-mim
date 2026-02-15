@@ -1,4 +1,4 @@
-# 🙋‍♀️ Sobre Mim | Projeto TripleTen Sprint 1
+# 🙋‍♀️ Sobre Mim | Projeto Sprint 1
 
 Uma página web pessoal desenvolvida como primeiro projeto do bootcamp de Desenvolvimento Web Full Stack da TripleTen.
 
