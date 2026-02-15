@@ -11,7 +11,7 @@ Uma página web pessoal desenvolvida como primeiro projeto do bootcamp de Desenv
 ## 📸 Preview
 
 <!-- Adicione uma screenshot do seu projeto aqui -->
-<!-- ![Preview do projeto](./images/screenshot.png) -->
+![Preview do projeto](./images/screenshot.png)
 
 🔗 **[Ver projeto online](https://danimontelo.github.io/sobre-mim/)**
 
